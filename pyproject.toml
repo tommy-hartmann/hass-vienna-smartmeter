@@ -6,7 +6,7 @@ authors = ["Platysma <platysma.dev@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-vienna-smartmeter = {git = "https://github.com/davidschoefberger/vienna-smartmeter.git", extras = ["async"]}
+vienna-smartmeter = {git = "https://github.com/tommy-hartmann/vienna-smartmeter.git", extras = ["async"]}
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.9.2"
