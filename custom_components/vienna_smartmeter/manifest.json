@@ -7,6 +7,6 @@
   "config_flow": true,
   "codeowners": ["@platysma"],
   "version": "0.1.0",
-  "requirements": ["git+https://github.com/tommy-hartmann/vienna-smartmeter.git[async]==0.3.2"],
+  "requirements": ["git+https://github.com/tommy-hartmann/vienna-smartmeter.git[async]@master#vienna-smartmeter==0.3.2"],
   "iot_class": "cloud_polling"
 }
